@@ -109,10 +109,10 @@ author:
   avatar: # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio: #
   location: "Philadelphia"
-  email:
+  email: 'fay.c.walker@gmail.com'
   links:
-    - label: "fay.c.walker@gmail.com"
-      icon: "fas fa-fw fa-envelope-square"
+    - #label: "fay.c.walker@gmail.com"
+      #icon: "fas fa-fw fa-envelope-square"
       # url: mailto:your.name@email.com
     - label: #"Website"
       icon: #"fas fa-fw fa-link"

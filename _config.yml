@@ -88,15 +88,15 @@ naver_site_verification:
 #  username:
 ##facebook:
 #  username:
- # app_id:
-  #publisher:
+# app_id:
+#publisher:
 #og_image: # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 #social:
- # type: # Person or Organization (defaults to Person)
-  ##name: # If the user or organization name differs from the site's name
-  #links: # An array of links to social media profiles
+# type: # Person or Organization (defaults to Person)
+##name: # If the user or organization name differs from the site's name
+#links: # An array of links to social media profiles
 
 # Analytics
 analytics:
@@ -106,31 +106,31 @@ analytics:
     anonymize_ip: # true, false (default)
 
 # Site Author
-author: "Fay Walker and Jessica Klion"
+author:
   name: "Fay Walker and Jessica Klion"
   avatar: # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio: #
   location: "Philadelphia"
-  email: 'fay.c.walker@gmail.com'
+  email: "fay.c.walker@gmail.com"
   #links:
-    - #label: "fay.c.walker@gmail.com"
-      #icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
-    - #label: #"Website"
-      #icon: #"fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - #label: #"Twitter"
-      #icon: #"fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - ##label: #"Facebook"
-      #icon: #"fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
-    -# label: "GitHub"
-      #icon: "fab fa-fw fa-github"
-       #url: "https://github.com/faycwalker"
-    - #label: "Instagram"
-      #icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+  # - #label: "fay.c.walker@gmail.com"
+  #   #icon: "fas fa-fw fa-envelope-square"
+  #   # url: mailto:your.name@email.com
+  # - #label: #"Website"
+  #   #icon: #"fas fa-fw fa-link"
+  #   # url: "https://your-website.com"
+  # - #label: #"Twitter"
+  #   #icon: #"fab fa-fw fa-twitter-square"
+  #   # url: "https://twitter.com/"
+  # - ##label: #"Facebook"
+  #   #icon: #"fab fa-fw fa-facebook-square"
+  #   # url: "https://facebook.com/"
+  # - # label: "GitHub"
+  #   #icon: "fab fa-fw fa-github"
+  #    #url: "https://github.com/faycwalker"
+  # - #label: "Instagram"
+  #   #icon: "fab fa-fw fa-instagram"
+  #   # url: "https://instagram.com/"
 
 # Site Footer
 #footer:
@@ -146,13 +146,13 @@ author: "Fay Walker and Jessica Klion"
 #      # url:
 #    - label: "GitLab"
 ###      icon: "fab fa-fw fa-gitlab"#
-      # url:
+# url:
 #    - label: "Bitbucket"
- #     icon: "fab fa-fw fa-bitbucket"
-  #    # url:
-   # - label: "Instagram"
-    #  icon: "fab fa-fw fa-instagram"
-      # url:
+#     icon: "fab fa-fw fa-bitbucket"
+#    # url:
+# - label: "Instagram"
+#  icon: "fab fa-fw fa-instagram"
+# url:
 
 # Reading Files
 include:

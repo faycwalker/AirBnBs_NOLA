@@ -1,4 +1,4 @@
-
+---
 title: "Examining Blight and Short Term Rentals in New Orleans"
 date: 2019-05-13
 published: true

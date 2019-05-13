@@ -35,6 +35,7 @@ The pattern of blight demolitions is very similar to the distribution of lien fo
 While AirBnB licenses (so approved AirBnBs) are less widespread than  either lien foreclosures or blight demolitions, the dispersion is similar to both, with a concentration in the core of the city.
 
 ## Point Map of AirBnBs
+<div id="folium-chart-4"></div>
 
 The point map below shows properties with AirBnB licenses as well as properties that applied for an AirBnB license combined with thier violation history. Green points are properties with licenses, blue points are properties without licenses. The points are filled in based on their violation history, with red fills indicating properties with active violations and purple fills indicating properties with
 inactive violation cases. If it is an active violation you can hover over the point to see the violation that the property was cited for, if it is an inactive violation you can see how many past violations the property has.
@@ -43,7 +44,5 @@ There are a couple of key takeaways from this map:
 1. Despite the fact that not having any active violations is a requirement for an airbnb license there are still approved airbnbs with active violations.
 2. There are a small handful of properties (primarily multi-unit) that are a huge source of violations, with upwards of 200 past violations.
 3. Approved AirBnBs are more concentrated near the French Quarter, while AirBnB applications are more distributed throughout the city.
-
-<div id="folium-chart-4"></div>
 
 ```
